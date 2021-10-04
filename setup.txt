@@ -1,0 +1,16 @@
+npm init
+
+npm install --global eslint eslint-plugin-import @typescript-eslint/parser eslint-import-resolver-typescript
+npm install --global jshint
+
+npm install --save-dev typescript ts-node tsconfig-paths
+npm install --save-dev @types/node
+npm install --save-dev @types/inquirer @types/cli-progress
+npm install --save-dev @types/pino
+
+npm install --save tslib
+npm install --save puppeteer @types/puppeteer
+npm install --save inquirer chalk ora cli-progress
+npm install --save pino pino-pretty
+
+tsc --init

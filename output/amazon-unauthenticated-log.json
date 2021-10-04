@@ -1,0 +1,288 @@
+[
+	{
+		"type": "request",
+		"url": "https://read.amazon.com.au/notebook",
+		"resourceType": "document",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://read.amazon.com.au/notebook",
+		"status": 302
+	},
+	{
+		"type": "request",
+		"url": "https://www.amazon.com.au/ap/signin?openid.return_to=https%3A%2F%2Fread.amazon.com.au%2Fkp%2Fnotebook%3FamazonDeviceType%3DA2CLFWBIMVSE9N&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_kp_au&openid.mode=checkid_setup&marketPlaceId=A39IBJ37TRP1C6&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_kp_notebook_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=1209600&siteState=clientContext%3D357-7320969-2103915%2CsourceUrl%3Dhttps%253A%252F%252Fread.amazon.com.au%252Fkp%252Fnotebook%253FamazonDeviceType%253DA2CLFWBIMVSE9N%2Csignature%3DYgtj2FarjTb9jINr4NqKfQaRpGwj2BEj3D&language=en_AU&auth=Customer+is+not+authenticated",
+		"resourceType": "document",
+		"redirectChain": 1
+	},
+	{
+		"type": "response",
+		"url": "https://www.amazon.com.au/ap/signin?openid.return_to=https%3A%2F%2Fread.amazon.com.au%2Fkp%2Fnotebook%3FamazonDeviceType%3DA2CLFWBIMVSE9N&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_kp_au&openid.mode=checkid_setup&marketPlaceId=A39IBJ37TRP1C6&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_kp_notebook_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=1209600&siteState=clientContext%3D357-7320969-2103915%2CsourceUrl%3Dhttps%253A%252F%252Fread.amazon.com.au%252Fkp%252Fnotebook%253FamazonDeviceType%253DA2CLFWBIMVSE9N%2Csignature%3DYgtj2FarjTb9jINr4NqKfQaRpGwj2BEj3D&language=en_AU&auth=Customer+is+not+authenticated",
+		"status": 200
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/61A6IErPNXL._RC%7C11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI",
+		"resourceType": "stylesheet",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC%7C31jdWD+JB+L.css,41DBI6BbFkL.css_.css?AUIClients/AuthenticationPortalAssets",
+		"resourceType": "stylesheet",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/11qeL1AgUGL.css?AUIClients/CVFAssets",
+		"resourceType": "stylesheet",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fstaticb%26id%3DV4JY7BDMCE1KTC4FYDAK:0",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/61A6IErPNXL._RC%7C11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC%7C31jdWD+JB+L.css,41DBI6BbFkL.css_.css?AUIClients/AuthenticationPortalAssets",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/11qeL1AgUGL.css?AUIClients/CVFAssets",
+		"status": 200
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC%7C11Y+5x+kkTL.js,51KMV3Cz2XL.js,31x4ENTlVIL.js,31f4+QIEeqL.js,01N6xzIJxbL.js,518BI433aLL.js,01rpauTep4L.js,31QZSjMuoeL.js,61ofwvddDeL.js,01KsMxlPtzL.js_.js?AUIClients/AmazonUI",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/21G215oqvfL._RC%7C21OJDARBhQL.js,218GJg15I8L.js,31lucpmF4CL.js,2119M3Ks9rL.js,51rAt+29TmL.js_.js?AUIClients/AuthenticationPortalAssets",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/01wGDSlxwdL.js?AUIClients/AuthenticationPortalInlineAssets",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/31klbMFvXPL.js?AUIClients/CVFAssets",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/81oDzXaLrLL.js?AUIClients/SiegeClientSideEncryptionAUI",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/71QA2qlWPdL.js?AUIClients/FWCIMAssets",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://m.media-amazon.com/images/S/sash/BgnVchebDR5Ds4h.png",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://m.media-amazon.com/images/S/sash/BgnVchebDR5Ds4h.png",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC%7C11Y+5x+kkTL.js,51KMV3Cz2XL.js,31x4ENTlVIL.js,31f4+QIEeqL.js,01N6xzIJxbL.js,518BI433aLL.js,01rpauTep4L.js,31QZSjMuoeL.js,61ofwvddDeL.js,01KsMxlPtzL.js_.js?AUIClients/AmazonUI",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/71QA2qlWPdL.js?AUIClients/FWCIMAssets",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/21G215oqvfL._RC%7C21OJDARBhQL.js,218GJg15I8L.js,31lucpmF4CL.js,2119M3Ks9rL.js,51rAt+29TmL.js_.js?AUIClients/AuthenticationPortalAssets",
+		"status": 200
+	},
+	{
+		"type": "request",
+		"url": "https://static.siege-amazon.com/prod/profiles/AuthenticationPortalSigninFE.js",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://m.media-amazon.com/images/G/01/csm/showads.v2.js?adtag=csm&act=ads_",
+		"resourceType": "fetch",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/81oDzXaLrLL.js?AUIClients/SiegeClientSideEncryptionAUI",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/31klbMFvXPL.js?AUIClients/CVFAssets",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/01wGDSlxwdL.js?AUIClients/AuthenticationPortalInlineAssets",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://m.media-amazon.com/images/G/01/csm/showads.v2.js?adtag=csm&act=ads_",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://static.siege-amazon.com/prod/profiles/AuthenticationPortalSigninFE.js",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fstaticb%26id%3DV4JY7BDMCE1KTC4FYDAK:0",
+		"status": 200
+	},
+	{
+		"type": "request",
+		"url": "https://www.amazon.com.au/ap/uedata?ld&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&sw=1463&sh=915&vw=1037&vh=735&m=1&sc=V4JY7BDMCE1KTC4FYDAK&ue=124&bb=198&cf=284&be=315&fp=214&fcp=214&pc=837&tc=-1139&na_=-1139&ul_=-1633337842270&_ul=-1633337842270&rd_=-1633337842270&_rd=-1633337842270&fe_=-311&lk_=-304&_lk=-286&co_=-286&_co=-245&sc_=-276&rq_=-244&rs_=-24&_rs=292&dl_=-19&di_=342&de_=342&_de=346&_dc=837&ld_=837&_ld=-1633337842270&ntd=-1&ty=0&rc=0&hob=123&hoe=124&ld=838&t=1633337843108&ctb=1&rt=cf:4-0-3-0-2-0-1__ld:13-7-3-1-4-0-1&csmtags=aui|aui:aui_build_date:3.21.4-2021-08-16|fls-fe-amazon-com|adblk_no&viz=visible:124&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26sw%3D1463%26sh%3D915%26vw%3D1037%26vh%3D735%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26ue%3D124%26bb%3D198%26cf%3D284%26be%3D315%26fp%3D214%26fcp%3D214%26pc%3D837%26tc%3D-1139%26na_%3D-1139%26ul_%3D-1633337842270%26_ul%3D-1633337842270%26rd_%3D-1633337842270%26_rd%3D-1633337842270%26fe_%3D-311%26lk_%3D-304%26_lk%3D-286%26co_%3D-286%26_co%3D-245%26sc_%3D-276%26rq_%3D-244%26rs_%3D-24%26_rs%3D292%26dl_%3D-19%26di_%3D342%26de_%3D342%26_de%3D346%26_dc%3D837%26ld_%3D837%26_ld%3D-1633337842270%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D123%26hoe%3D124%26ld%3D838%26t%3D1633337843108%26ctb%3D1%26rt%3Dcf%3A4-0-3-0-2-0-1__ld%3A13-7-3-1-4-0-1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.21.4-2021-08-16%7Cfls-fe-amazon-com%7Cadblk_no%26viz%3Dvisible%3A124%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1:839",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://unagi.amazon.com.au/1/events/com.amazon.csm.csa.prod",
+		"resourceType": "ping",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/31YXrY93hfL.js",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://c.amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js",
+		"resourceType": "script",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://www.amazon.com.au/favicon.ico",
+		"resourceType": "other",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://images-fe.ssl-images-amazon.com/images/I/31YXrY93hfL.js",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://www.amazon.com.au/favicon.ico",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://c.amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://www.amazon.com.au/ap/uedata?ld&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&sw=1463&sh=915&vw=1037&vh=735&m=1&sc=V4JY7BDMCE1KTC4FYDAK&ue=124&bb=198&cf=284&be=315&fp=214&fcp=214&pc=837&tc=-1139&na_=-1139&ul_=-1633337842270&_ul=-1633337842270&rd_=-1633337842270&_rd=-1633337842270&fe_=-311&lk_=-304&_lk=-286&co_=-286&_co=-245&sc_=-276&rq_=-244&rs_=-24&_rs=292&dl_=-19&di_=342&de_=342&_de=346&_dc=837&ld_=837&_ld=-1633337842270&ntd=-1&ty=0&rc=0&hob=123&hoe=124&ld=838&t=1633337843108&ctb=1&rt=cf:4-0-3-0-2-0-1__ld:13-7-3-1-4-0-1&csmtags=aui|aui:aui_build_date:3.21.4-2021-08-16|fls-fe-amazon-com|adblk_no&viz=visible:124&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1",
+		"status": 204
+	},
+	{
+		"type": "response",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26sw%3D1463%26sh%3D915%26vw%3D1037%26vh%3D735%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26ue%3D124%26bb%3D198%26cf%3D284%26be%3D315%26fp%3D214%26fcp%3D214%26pc%3D837%26tc%3D-1139%26na_%3D-1139%26ul_%3D-1633337842270%26_ul%3D-1633337842270%26rd_%3D-1633337842270%26_rd%3D-1633337842270%26fe_%3D-311%26lk_%3D-304%26_lk%3D-286%26co_%3D-286%26_co%3D-245%26sc_%3D-276%26rq_%3D-244%26rs_%3D-24%26_rs%3D292%26dl_%3D-19%26di_%3D342%26de_%3D342%26_de%3D346%26_dc%3D837%26ld_%3D837%26_ld%3D-1633337842270%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D123%26hoe%3D124%26ld%3D838%26t%3D1633337843108%26ctb%3D1%26rt%3Dcf%3A4-0-3-0-2-0-1__ld%3A13-7-3-1-4-0-1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.21.4-2021-08-16%7Cfls-fe-amazon-com%7Cadblk_no%26viz%3Dvisible%3A124%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1:839",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://unagi.amazon.com.au/1/events/com.amazon.csm.csa.prod",
+		"status": 200
+	},
+	{
+		"type": "request",
+		"url": "https://www.amazon.com.au/ap/uedata?at&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&ctb=1&m=1&sc=V4JY7BDMCE1KTC4FYDAK&pc=1815&at=1815&t=1633337844085&csmtags=csm-feature-touch-enabled:false&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26ctb%3D1%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26pc%3D1815%26at%3D1815%26t%3D1633337844085%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1:1815",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://www.amazon.com.au/ap/uedata?at&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&ctb=1&m=1&sc=V4JY7BDMCE1KTC4FYDAK&pc=1817&at=1817&t=1633337844087&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1&ui=2",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26ctb%3D1%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26pc%3D1817%26at%3D1817%26t%3D1633337844087%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1%26ui%3D2:1817",
+		"resourceType": "image",
+		"redirectChain": 0
+	},
+	{
+		"type": "request",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OE/",
+		"resourceType": "ping",
+		"redirectChain": 0
+	},
+	{
+		"type": "response",
+		"url": "https://www.amazon.com.au/ap/uedata?at&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&ctb=1&m=1&sc=V4JY7BDMCE1KTC4FYDAK&pc=1815&at=1815&t=1633337844085&csmtags=csm-feature-touch-enabled:false&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1",
+		"status": 204
+	},
+	{
+		"type": "response",
+		"url": "https://www.amazon.com.au/ap/uedata?at&v=0.217562.0&id=V4JY7BDMCE1KTC4FYDAK&ctb=1&m=1&sc=V4JY7BDMCE1KTC4FYDAK&pc=1817&at=1817&t=1633337844087&pty=AuthenticationPortal&spty=SignInApplication&pti=undefined&tid=V4JY7BDMCE1KTC4FYDAK&aftb=1&ui=2",
+		"status": 204
+	},
+	{
+		"type": "response",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26ctb%3D1%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26pc%3D1817%26at%3D1817%26t%3D1633337844087%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1%26ui%3D2:1817",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OP/A39IBJ37TRP1C6:357-7320969-2103915:V4JY7BDMCE1KTC4FYDAK$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.217562.0%26id%3DV4JY7BDMCE1KTC4FYDAK%26ctb%3D1%26m%3D1%26sc%3DV4JY7BDMCE1KTC4FYDAK%26pc%3D1815%26at%3D1815%26t%3D1633337844085%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInApplication%26pti%3Dundefined%26tid%3DV4JY7BDMCE1KTC4FYDAK%26aftb%3D1:1815",
+		"status": 200
+	},
+	{
+		"type": "response",
+		"url": "https://fls-fe.amazon.com/1/batch/1/OE/",
+		"status": 204
+	}
+]
