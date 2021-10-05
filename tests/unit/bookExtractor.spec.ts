@@ -12,7 +12,7 @@ describe("Kindle annotated books", () => {
 	 */
 	beforeAll(() => {
 		window.document.body.innerHTML = fs.readFileSync(
-			path.join(__dirname, "./bookExtractor.test.html"), "utf-8"
+			path.join(__dirname, "./bookExtractor.html.txt"), "utf-8"
 		);
 	});
 
