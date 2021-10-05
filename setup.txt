@@ -4,13 +4,17 @@ npm install --global eslint eslint-plugin-import @typescript-eslint/parser eslin
 npm install --global jshint
 
 npm install --save-dev typescript ts-node tsconfig-paths
+npm install --save-dev jest ts-jest @types/jest
 npm install --save-dev @types/node
+npm install --save-dev @types/puppeteer
+npm install --save-dev @types/jsdom
 npm install --save-dev @types/inquirer @types/cli-progress
-npm install --save-dev @types/pino
 
 npm install --save tslib
-npm install --save puppeteer @types/puppeteer
+npm install --save puppeteer 
+npm install --save jsdom
 npm install --save inquirer chalk ora cli-progress
-npm install --save pino pino-pretty
+
+npx ts-jest config:init
 
 tsc --init

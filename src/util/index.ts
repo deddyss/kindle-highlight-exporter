@@ -1,9 +1,13 @@
 import path from "path";
 import fs from "fs";
 
+export const isChromeAvailable = (): boolean => {
+	return getChromeExecutablePath() !== undefined;
+};
+
 export const getChromeExecutablePath = () => {
 	if (process.platform !== "win32") {
-		return null;
+		return undefined;
 	}
 
 	const prefixes = [
@@ -22,12 +26,12 @@ export const getChromeExecutablePath = () => {
 		catch (error) {}
 	}
 
-	return null;
+	return undefined;
 };
 
 export const getChromeUserDataDir = () => {
 	if (process.platform !== "win32") {
-		return null;
+		return undefined;
 	}
 
 	const prefix = process.env.LOCALAPPDATA;
@@ -47,5 +51,5 @@ export const getChromeUserDataDir = () => {
 		catch (error) {}
 	}
 
-	return null;
+	return undefined;
 };

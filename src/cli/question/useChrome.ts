@@ -1,12 +1,12 @@
 import { ListQuestionOptions } from "inquirer";
 import chalk from "chalk";
-import { Answer } from "@/types";
+import { Configuration } from "@/types";
 import { prefix } from "./options";
 
-const useChromeQuestion: ListQuestionOptions<Answer> = {
+const useChromeQuestion: ListQuestionOptions<Configuration> = {
 	type: "list",
 	name: "useChrome",
-	message: `Do you want to ${chalk.bold.yellow("use Chrome")} as default tool to crawl Amazon Kindle?`,
+	message: `Do you want to ${chalk.bold.yellow("use installed Chrome")} as default tool to crawl your Kindle books${chalk.bold.cyan("?")} You might not need to enter username and password again if you're already authenticated to Amazon`,
 	default: false,
 	choices: [
 		{
@@ -15,7 +15,7 @@ const useChromeQuestion: ListQuestionOptions<Answer> = {
 			value: true
 		},
 		{
-			name: "No, I will use Chromium",
+			name: "No, I will use built-in Chromium browser",
 			short: "Chromium",
 			value: false
 		}
