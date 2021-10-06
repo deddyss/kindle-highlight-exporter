@@ -8,11 +8,13 @@ npm install --save-dev jest ts-jest @types/jest
 npm install --save-dev @types/node
 npm install --save-dev @types/puppeteer
 npm install --save-dev @types/jsdom
+npm install --save-dev @types/mustache
 npm install --save-dev @types/inquirer @types/cli-progress
 
 npm install --save tslib
 npm install --save puppeteer 
 npm install --save jsdom
+npm install --save mustache
 npm install --save inquirer chalk ora cli-progress
 
 npx ts-jest config:init

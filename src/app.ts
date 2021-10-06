@@ -2,6 +2,8 @@ import puppeteer, { HTTPRequest, HTTPResponse } from "puppeteer";
 import path from "path";
 import fs from "fs";
 import { getChromeExecutablePath, getChromeUserDataDir } from "@/util";
+import { Highlight } from "./types";
+import { extractHighlights } from "./api/kindle/dom";
 
 const main = async () => {
 	const browser = await puppeteer.launch({
@@ -16,6 +18,7 @@ const main = async () => {
 	const url = "https://read.amazon.com.au/notebook";
 
 	const requestResponse: any[] = [];
+	const highlights: Array<Highlight> = [];
 	const requestHandler = (request: HTTPRequest) => {
 		if (request.resourceType() !== "xhr" || !request.url().startsWith(url)) {
 			return;
@@ -29,7 +32,7 @@ const main = async () => {
 		requestResponse.push(item);
 	};
 	let counter = 0;
-	const responseHandler = async (response: HTTPResponse) => {
+	const responseHandler = (response: HTTPResponse) => {
 		const request = response.request();
 		if (request.resourceType() !== "xhr" || !request.url().startsWith(url)) {
 			return;
@@ -40,7 +43,9 @@ const main = async () => {
 			"status": response.status()
 		};
 		requestResponse.push(item);
-		await response.text();
+		response.text().then((html: string) => {
+			highlights.push(...extractHighlights(html));
+		});
 		counter+=1;
 		console.log(counter);
 	};
@@ -67,6 +72,9 @@ const main = async () => {
 
 	const log: string = path.join(path.resolve(__dirname, "../output"), "retrieve-highlight-log.json");
 	fs.writeFileSync(log, JSON.stringify(requestResponse), { encoding: "utf-8" });
+
+	const highlight: string = path.join(path.resolve(__dirname, "../output"), "retrieve-highlight.json");
+	fs.writeFileSync(highlight, JSON.stringify(highlights), { encoding: "utf-8" });
 
 	console.log("all highlights is retrieved");
 	console.log("current URL: " + urlObject(page.url()));

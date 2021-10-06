@@ -1,7 +1,6 @@
 # Kindle Highliht Exporter
 Simple tool to export highlights from Amazon Kindle annotated books
 
-
 ## About The Project
 While reading a book, sometimes I come across some new words or phrases that I still don't understand the meaning of. And as a person who always wants to be better, sometimes I found nice quotes, mantra or wisdoms that relate to my life. Using Amazon Kindle, we can highlight those words, phrases, sentences or even paragraphs and then export them. We can also recall those new words or phrases using built-in flashcard feature.
 
@@ -36,7 +35,6 @@ The problem is, the defaut export feature can only be done in the Amazon Kindle 
    npm run build
    ```
 
-
 ## Usage
 Use following command to start the app
 ```sh
@@ -47,8 +45,10 @@ npm run start
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
 ## Acknowledgements
+* [Jest](https://jestjs.io/)
+* [Jsdom](https://github.com/jsdom/jsdom)
+* [Mustache.js](https://mustache.github.io/)
 * [CLI-Progress](https://github.com/npkgz/cli-progress)
 * [Chalk](https://github.com/chalk/chalk)
 * [Ora](https://github.com/sindresorhus/ora)

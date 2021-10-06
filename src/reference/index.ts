@@ -1,20 +1,3 @@
-/**
-	await page.click("input[type=email][name=email]");
-	await page.keyboard.type("who@are.you");
-
-	await page.waitForTimeout(1000);
-	await page.click("input[type=password][name=password]");
-	await page.keyboard.type("password");
-
-	await page.waitForTimeout(1000);
-	await page.click("input[type=checkbox][name=rememberMe]");
-
-	// await page.waitForTimeout(1000);
-	// await page.click("input[type=submit][id=signInSubmit]");
-	// await page.waitForNavigation();
-
- */
-
 export const SELECTOR = {
 	SIGNIN: {
 		EMAIL: "input[type=email][name=email]",
@@ -28,7 +11,8 @@ export const SELECTOR = {
 		TITLE: "h2",
 		AUTHOR: "p",
 		COVER: "img",
-		LAST_ACCESS: "input[type=hidden]"
+		LAST_ACCESS: "input[type=hidden]",
+		LINK: "div[id={{id}}] a"
 	},
 	HIGHLIGHTS: ".kp-notebook-print-override",
 	HIGHLIGHT: {

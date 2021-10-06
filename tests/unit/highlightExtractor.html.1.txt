@@ -1,0 +1,2312 @@
+<input type="hidden" name="" value="TEz12ntq4yD9cIH3SQrtGIqMviGWTddAf%2FyDm5v627Q9KyEJBfTc" class="kp-notebook-content-limit-state"/><input type="hidden" name="" value="eyJ2ZXJzaW9uIjoiVjIiLCJ0b2tlbiI6IntcImxpbmtzXCI6W1wiL3doaXNwZXJzeW5jL3YyL2RhdGEvYW16bjEuYWNjb3VudC5BR043UkI0N1MzQjJaTkxGNk5CWU1WTTY3M1NBL25hbWVzcGFjZS9XaGlzcGVyc3luY0Fubm90YXRpb25zL3JlY29yZHMva2V5L3N0YXJ0L3ZhbHVlL2Q1N2YxOGQ0LTFhZDgtNDU1Yy05YjJhLTlhZDFkNTc3Nzk3OD9hZnRlclxcdTAwM2QlN0IlMjJkSSUyMiUzQSUyMmQ1N2YxOGQ0LTFhZDgtNDU1Yy05YjJhLTlhZDFkNTc3Nzk3OCUyMiUyQyUyMmkyJTIyJTNBJTIyV2hpc3BlcnN5bmNBbm5vdGF0aW9ucyUyMWFtem4xLmFjY291bnQuQUdON1JCNDdTM0IyWk5MRjZOQllNVk02NzNTQSUyMVdoaXNwZXJzeW5jQW5ub3RhdGlvbnMlMjEwMDAwNTM4MDUlMjIlMkMlMjJrJTIyJTNBJTIya2luZGxlLm5vdGUtNTM4MDUlMjIlN0RcIl19In0" class="kp-notebook-annotations-next-page-start"/>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzA3Ok5PVEU6YTM5MDBYVkcxQVJINDQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="216" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Freestanding note header --><span id="annotationNoteHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Note | Page:&nbsp;16</span>
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 16&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzA3Ok5PVEU6YTM5MDBYVkcxQVJINDQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzA3Ok5PVEU6YTM5MDBYVkcxQVJINDQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+					<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzA3Ok5PVEU6YTM5MDBYVkcxQVJINDQ" class="a-row kp-notebook-note kp-notebook-selectable"> <span id="note" class="a-size-base-plus a-color-base">/ˈbeəli/ baru saja; just; recently</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzY5OkhJR0hMSUdIVDphSldMMFFRVUxaNk8w" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="216" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;16</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;16</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 16&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzY5OkhJR0hMSUdIVDphSldMMFFRVUxaNk8w-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzY5OkhJR0hMSUdIVDphSldMMFFRVUxaNk8w" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzY5OkhJR0hMSUdIVDphSldMMFFRVUxaNk8w" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">to make room</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjMyMzgwOk5PVEU6YTM3TjhMRVVSM0k0S0M" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">untuk memberi ruang</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MDgzOkhJR0hMSUdIVDphMlJYSlFWTDVSRFVLRA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="228" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;17</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;17</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 17&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MDgzOkhJR0hMSUdIVDphMlJYSlFWTDVSRFVLRA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MDgzOkhJR0hMSUdIVDphMlJYSlFWTDVSRFVLRA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MDgzOkhJR0hMSUdIVDphMlJYSlFWTDVSRFVLRA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">fret</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MDg2Ok5PVEU6YTJFM1FGUDFRR1I5ME0" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">resah; constantly or visibly worried or anxious</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MjczOkhJR0hMSUdIVDphMlBOTkhSVjUwSUI3OA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="229" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;17</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;17</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 17&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MjczOkhJR0hMSUdIVDphMlBOTkhSVjUwSUI3OA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MjczOkhJR0hMSUdIVDphMlBOTkhSVjUwSUI3OA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0MjczOkhJR0hMSUdIVDphMlBOTkhSVjUwSUI3OA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">cheered</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0Mjc5Ok5PVEU6YTFTTFhDVTlaVk9JUzQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">bersorak</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0NjAyOkhJR0hMSUdIVDphMjlZRTRVQUdUNUNEWQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="231" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;17</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;17</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 17&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0NjAyOkhJR0hMSUdIVDphMjlZRTRVQUdUNUNEWQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0NjAyOkhJR0hMSUdIVDphMjlZRTRVQUdUNUNEWQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0NjAyOkhJR0hMSUdIVDphMjlZRTRVQUdUNUNEWQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">shivered.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM0NjEwOk5PVEU6YTE0RVhMR0Q4TDBYMVo" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">gemetar; menggigil; tremble; shake; wobble; quiver</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MDE2OkhJR0hMSUdIVDphM0RBTklOVlAyS1pPUg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="234" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;18</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;18</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 18&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MDE2OkhJR0hMSUdIVDphM0RBTklOVlAyS1pPUg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MDE2OkhJR0hMSUdIVDphM0RBTklOVlAyS1pPUg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MDE2OkhJR0hMSUdIVDphM0RBTklOVlAyS1pPUg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">fidgeting</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MDI0Ok5PVEU6YU9SV0hPUlNGMEhFVw" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/ˈfɪdʒɪt/ gelisah; keep making small movements with your hands or feet because you are nervous or bored;</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MjAwOkhJR0hMSUdIVDphMzJDMlBUQ0YzWkZUSg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="235" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;18</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;18</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 18&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MjAwOkhJR0hMSUdIVDphMzJDMlBUQ0YzWkZUSg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MjAwOkhJR0hMSUdIVDphMzJDMlBUQ0YzWkZUSg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MjAwOkhJR0hMSUdIVDphMzJDMlBUQ0YzWkZUSg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">suspense</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1MjA3Ok5PVEU6YU4yNE1PS1JLUFNXUw" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">ketegangan; tension; strain</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1OTA2OkhJR0hMSUdIVDphN1NFOEYwQ1lQM1gx" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="240" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;18</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;18</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 18&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1OTA2OkhJR0hMSUdIVDphN1NFOEYwQ1lQM1gx-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1OTA2OkhJR0hMSUdIVDphN1NFOEYwQ1lQM1gx" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1OTA2OkhJR0hMSUdIVDphN1NFOEYwQ1lQM1gx" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">aptitude</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM1OTEzOk5PVEU6YTExUTRINldCQTkzSUk" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/ˈ&aelig;ptɪtjuːd/ bakat; talent; gift; ability; competence</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM2MTk0OkhJR0hMSUdIVDphMUVKQUg1MlNXWDdMVg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="242" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;18</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;18</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 18&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM2MTk0OkhJR0hMSUdIVDphMUVKQUg1MlNXWDdMVg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM2MTk0OkhJR0hMSUdIVDphMUVKQUg1MlNXWDdMVg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM2MTk0OkhJR0hMSUdIVDphMUVKQUg1MlNXWDdMVg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">pointed out,</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM2MjA1Ok5PVEU6YTNHR0JCV1lOSU80UTY" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">menyatakan; identify; bring to notice; telling someone something</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4MjU1OkhJR0hMSUdIVDphMjFJMzVWS1lIWTBEQQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="256" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;20</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;20</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 20&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4MjU1OkhJR0hMSUdIVDphMjFJMzVWS1lIWTBEQQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4MjU1OkhJR0hMSUdIVDphMjFJMzVWS1lIWTBEQQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4MjU1OkhJR0hMSUdIVDphMjFJMzVWS1lIWTBEQQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">thrilled.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4MjYzOk5PVEU6YTIzSURORzJXQlpYUDg" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">excited; sudden feeling of excitement and pleasure</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4OTkyOkhJR0hMSUdIVDphMVBBN1NPOEJURjBDWQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="260" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;20</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;20</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 20&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4OTkyOkhJR0hMSUdIVDphMVBBN1NPOEJURjBDWQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4OTkyOkhJR0hMSUdIVDphMVBBN1NPOEJURjBDWQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4OTkyOkhJR0hMSUdIVDphMVBBN1NPOEJURjBDWQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">appeal</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM4OTk3Ok5PVEU6YTI3SUtEWFBMRFZVSg" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">banding</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM5MzU2OkhJR0hMSUdIVDphMTRBWUFDMlJXMlFWWg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="263" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;21</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;21</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 21&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM5MzU2OkhJR0hMSUdIVDphMTRBWUFDMlJXMlFWWg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM5MzU2OkhJR0hMSUdIVDphMTRBWUFDMlJXMlFWWg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM5MzU2OkhJR0hMSUdIVDphMTRBWUFDMlJXMlFWWg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">chuckled.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjM5MzY0Ok5PVEU6YTFDTUIzMDVGS04wWks" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">terkekeh; tertawa kecil; cackle</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxNTUyOkhJR0hMSUdIVDphMUJYSklFMldaTEtSMw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="278" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;22</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;22</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 22&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxNTUyOkhJR0hMSUdIVDphMUJYSklFMldaTEtSMw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxNTUyOkhJR0hMSUdIVDphMUJYSklFMldaTEtSMw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxNTUyOkhJR0hMSUdIVDphMUJYSklFMldaTEtSMw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">at all,</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxNTU4Ok5PVEU6YUpQRU5DQkdPRTBaNg" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">in any manner / way</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxOTQxOkhJR0hMSUdIVDphMzNEWEZKQllZUjBSMQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="280" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;22</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;22</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 22&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxOTQxOkhJR0hMSUdIVDphMzNEWEZKQllZUjBSMQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxOTQxOkhJR0hMSUdIVDphMzNEWEZKQllZUjBSMQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxOTQxOkhJR0hMSUdIVDphMzNEWEZKQllZUjBSMQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">neatly trimmed hair.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQxOTYwOk5PVEU6YTJMVVFEQUE5VTBBTzg" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">rambut yang dipangkas rapi</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMTI0OkhJR0hMSUdIVDphM0s3UjNGU1FOOUNFQg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="281" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;22</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;22</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 22&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMTI0OkhJR0hMSUdIVDphM0s3UjNGU1FOOUNFQg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMTI0OkhJR0hMSUdIVDphM0s3UjNGU1FOOUNFQg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMTI0OkhJR0hMSUdIVDphM0s3UjNGU1FOOUNFQg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">sigh.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMTI4Ok5PVEU6YTFXN0hOSjhXUERNSDM" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/saɪ/ desahan; mengeluh;</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMzM5OkhJR0hMSUdIVDphQjlJWjM0OUs5VE83" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="283" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;22</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;22</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 22&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMzM5OkhJR0hMSUdIVDphQjlJWjM0OUs5VE83-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMzM5OkhJR0hMSUdIVDphQjlJWjM0OUs5VE83" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMzM5OkhJR0hMSUdIVDphQjlJWjM0OUs5VE83" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">fondly,</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyMzQ1Ok5PVEU6YTIwT0NKVEVCVUk5M0s" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">with affection; lovingly</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyNjU4OkhJR0hMSUdIVDphMzlETUlWNUk1VkNXSg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="285" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;23</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;23</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 23&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyNjU4OkhJR0hMSUdIVDphMzlETUlWNUk1VkNXSg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyNjU4OkhJR0hMSUdIVDphMzlETUlWNUk1VkNXSg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyNjU4OkhJR0hMSUdIVDphMzlETUlWNUk1VkNXSg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">stuffed</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQyNjY0Ok5PVEU6YTE2UVJKTk5JWEUxVDI" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">boneka</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMDc5OkhJR0hMSUdIVDphWFVFTlZDSzJZMEJL" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="288" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Orange highlight | Page:&nbsp;23</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;23</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 23&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMDc5OkhJR0hMSUdIVDphWFVFTlZDSzJZMEJL-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMDc5OkhJR0hMSUdIVDphWFVFTlZDSzJZMEJL" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMDc5OkhJR0hMSUdIVDphWFVFTlZDSzJZMEJL" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-orange"> <span id="highlight" class="a-size-base-plus a-color-base">headed</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMDg0Ok5PVEU6YUJGNjBIQjkwSkFNMQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/ˈhɛdɪd/ menuju; toward</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMzcyOkhJR0hMSUdIVDphM1RKVk5DVFFMUTFUWQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="290" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;23</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;23</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 23&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMzcyOkhJR0hMSUdIVDphM1RKVk5DVFFMUTFUWQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMzcyOkhJR0hMSUdIVDphM1RKVk5DVFFMUTFUWQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMzcyOkhJR0hMSUdIVDphM1RKVk5DVFFMUTFUWQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">sort through</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzMzgzOk5PVEU6YTFXS0FRWUg2U1BGSTA" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">menyortir; to examine or investigate the contents of something and organize / arrange them in some manner</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzNjA1OkhJR0hMSUdIVDphMzYyRTVaRUtXUzhQSQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="291" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;23</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;23</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 23&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzNjA1OkhJR0hMSUdIVDphMzYyRTVaRUtXUzhQSQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzNjA1OkhJR0hMSUdIVDphMzYyRTVaRUtXUzhQSQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzNjA1OkhJR0hMSUdIVDphMzYyRTVaRUtXUzhQSQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">slightest idea</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQzNjE4Ok5PVEU6YTJLNVhOOUtGVzBQUEs" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">ide sekecil apapun; gambaran; bayangan</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MTcyOkhJR0hMSUdIVDphMTg3NkNSMkhSVjc0UQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="295" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;24</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;24</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 24&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MTcyOkhJR0hMSUdIVDphMTg3NkNSMkhSVjc0UQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MTcyOkhJR0hMSUdIVDphMTg3NkNSMkhSVjc0UQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MTcyOkhJR0hMSUdIVDphMTg3NkNSMkhSVjc0UQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">glared</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MTc3Ok5PVEU6YVY2VUJOMVY0TzkwTg" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">melotot; menatap tajam; stare</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MjY4OkhJR0hMSUdIVDphMUtCTzFKM1FTMlhLRg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="296" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;24</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;24</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 24&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MjY4OkhJR0hMSUdIVDphMUtCTzFKM1FTMlhLRg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MjY4OkhJR0hMSUdIVDphMUtCTzFKM1FTMlhLRg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0MjY4OkhJR0hMSUdIVDphMUtCTzFKM1FTMlhLRg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">chastise</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0Mjc1Ok5PVEU6YUs3RzZMWFlXNUQ1Tw" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/tʃ&aelig;sˈtaɪz/ to critizise or punish someone; sentence; punish</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0NDkzOkhJR0hMSUdIVDphMkVYUldHR0M0TE5OMg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="297" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;24</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;24</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 24&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0NDkzOkhJR0hMSUdIVDphMkVYUldHR0M0TE5OMg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0NDkzOkhJR0hMSUdIVDphMkVYUldHR0M0TE5OMg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0NDkzOkhJR0hMSUdIVDphMkVYUldHR0M0TE5OMg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">peering up</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0NTAyOk5PVEU6YTMyRlpGV0w1MjIzRUQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">mengintip</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0OTQ0OkhJR0hMSUdIVDphRjVKVzBLMDgxVjk3" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="300" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0OTQ0OkhJR0hMSUdIVDphRjVKVzBLMDgxVjk3-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0OTQ0OkhJR0hMSUdIVDphRjVKVzBLMDgxVjk3" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0OTQ0OkhJR0hMSUdIVDphRjVKVzBLMDgxVjk3" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">unsettling</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ0OTUzOk5PVEU6YTMxMjZVOVpQRjFUSEY" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">/ʌnˈsetlɪŋ/ mengganggu; disturbing</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1MTA2OkhJR0hMSUdIVDphNzVBTERHOTM2S1BC" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="301" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1MTA2OkhJR0hMSUdIVDphNzVBTERHOTM2S1BC-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1MTA2OkhJR0hMSUdIVDphNzVBTERHOTM2S1BC" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1MTA2OkhJR0hMSUdIVDphNzVBTERHOTM2S1BC" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">chatter.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1MTEzOk5PVEU6YTFERU1RNDUwMjExTzc" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">obrolan; babble; chitchat</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDE2OkhJR0hMSUdIVDphMlNONVRTNTNDNlRPSA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="303" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDE2OkhJR0hMSUdIVDphMlNONVRTNTNDNlRPSA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDE2OkhJR0hMSUdIVDphMlNONVRTNTNDNlRPSA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDE2OkhJR0hMSUdIVDphMlNONVRTNTNDNlRPSA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">shrugged.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDI0Ok5PVEU6YTFLV0Y2M01SQkJaUzY" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">mengangkat bahu</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDY3OkhJR0hMSUdIVDphOEJHTjhUUzQ3R0Q5" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="304" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDY3OkhJR0hMSUdIVDphOEJHTjhUUzQ3R0Q5-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDY3OkhJR0hMSUdIVDphOEJHTjhUUzQ3R0Q5" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDY3OkhJR0hMSUdIVDphOEJHTjhUUzQ3R0Q5" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">startled</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1NDc0Ok5PVEU6YTM0N0RNR01JMVBWTVo" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">terkejut; shocked</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1ODY3OkhJR0hMSUdIVDphMUZQRFNYNjA1SDg0Mw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="306" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1ODY3OkhJR0hMSUdIVDphMUZQRFNYNjA1SDg0Mw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1ODY3OkhJR0hMSUdIVDphMUZQRFNYNjA1SDg0Mw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1ODY3OkhJR0hMSUdIVDphMUZQRFNYNjA1SDg0Mw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">certain look</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ1ODc4Ok5PVEU6YTI3SE9HMlVMWEgwNE4" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">tampilan tertentu</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MDIyOkhJR0hMSUdIVDphM1VLUzNHOUNVSFNEMg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="307" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;25</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;25</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 25&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MDIyOkhJR0hMSUdIVDphM1VLUzNHOUNVSFNEMg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MDIyOkhJR0hMSUdIVDphM1VLUzNHOUNVSFNEMg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MDIyOkhJR0hMSUdIVDphM1VLUzNHOUNVSFNEMg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">lurk</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MDI1Ok5PVEU6YTNRUDZTNlUwRU9QQzE" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">bersembunyi; mengintai; hide' burrow</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MjgzOkhJR0hMSUdIVDphTUlBNUI3MDVEWlZD" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="309" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;26</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;26</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 26&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MjgzOkhJR0hMSUdIVDphTUlBNUI3MDVEWlZD-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MjgzOkhJR0hMSUdIVDphTUlBNUI3MDVEWlZD" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2MjgzOkhJR0hMSUdIVDphTUlBNUI3MDVEWlZD" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">bending over</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ2Mjk0Ok5PVEU6YTE3R0dGWEFDQ0FUMDQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">membungkuk; melengkung</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3Mzk1OkhJR0hMSUdIVDphMjY4UFdNVTJGVVRSRw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="316" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;26</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;26</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 26&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3Mzk1OkhJR0hMSUdIVDphMjY4UFdNVTJGVVRSRw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3Mzk1OkhJR0hMSUdIVDphMjY4UFdNVTJGVVRSRw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3Mzk1OkhJR0hMSUdIVDphMjY4UFdNVTJGVVRSRw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">amuse</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3Mzk5Ok5PVEU6YTdQSDJZUVJER09DVw" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">menghibur; entertain; comfort; cheer up</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3NDc1OkhJR0hMSUdIVDphM01UMFYzS1pXTzRTOA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="317" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;26</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;26</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 26&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3NDc1OkhJR0hMSUdIVDphM01UMFYzS1pXTzRTOA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3NDc1OkhJR0hMSUdIVDphM01UMFYzS1pXTzRTOA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3NDc1OkhJR0hMSUdIVDphM01UMFYzS1pXTzRTOA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">petulantly.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3NDg1Ok5PVEU6YTNEVDBXNk1HQlo5U1U" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">in a way that is petulant (= easily annoyed and rude, like a child); grumpy; crabby; irritable</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3ODk4OkhJR0hMSUdIVDphMktaRkpPS0JYVlFa" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="320" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;27</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;27</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 27&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3ODk4OkhJR0hMSUdIVDphMktaRkpPS0JYVlFa-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3ODk4OkhJR0hMSUdIVDphMktaRkpPS0JYVlFa" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3ODk4OkhJR0hMSUdIVDphMktaRkpPS0JYVlFa" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">reluctantly.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ3OTA5Ok5PVEU6YTFSMk9TM0NaWkxOMjQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">enggan; in an unwilling and hesitant way; unwilling; averse</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ4NTk4OkhJR0hMSUdIVDphT09FTDFZQ0hNTjJC" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="324" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;27</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;27</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 27&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ4NTk4OkhJR0hMSUdIVDphT09FTDFZQ0hNTjJC-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ4NTk4OkhJR0hMSUdIVDphT09FTDFZQ0hNTjJC" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ4NTk4OkhJR0hMSUdIVDphT09FTDFZQ0hNTjJC" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">singsong</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ4NjA1Ok5PVEU6YTNPREVJVVRIUzhRSzc" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">berirama; bernada; menyanyikan lagu; (of a person's voice) having a repeated rising and falling rhythm</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5MDc1OkhJR0hMSUdIVDphMk1RMk9aU1NTT1FNWQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="328" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;27</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;27</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 27&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5MDc1OkhJR0hMSUdIVDphMk1RMk9aU1NTT1FNWQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5MDc1OkhJR0hMSUdIVDphMk1RMk9aU1NTT1FNWQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5MDc1OkhJR0hMSUdIVDphMk1RMk9aU1NTT1FNWQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">droning on</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5MDg0Ok5PVEU6YTJaVEM4TDRGUVQ2QjQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">terus mengoceh</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5NDQ1OkhJR0hMSUdIVDphMzIzNUlCMjdJQjA1Tw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="330" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;28</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;28</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 28&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5NDQ1OkhJR0hMSUdIVDphMzIzNUlCMjdJQjA1Tw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5NDQ1OkhJR0hMSUdIVDphMzIzNUlCMjdJQjA1Tw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5NDQ1OkhJR0hMSUdIVDphMzIzNUlCMjdJQjA1Tw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">dangling.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5NDUzOk5PVEU6YUs0RjNVN09WM1dIMQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">teruntai; terjuntai; menggantung; to hang loosely</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5OTE0OkhJR0hMSUdIVDphMUFRTllIWlAxQkoyVw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="333" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;28</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;28</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 28&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5OTE0OkhJR0hMSUdIVDphMUFRTllIWlAxQkoyVw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5OTE0OkhJR0hMSUdIVDphMUFRTllIWlAxQkoyVw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5OTE0OkhJR0hMSUdIVDphMUFRTllIWlAxQkoyVw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">HOARDED</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjQ5OTIwOk5PVEU6YU45RkRHRzcyVE9VUQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">ditimbun; pile up</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMTQ3OkhJR0hMSUdIVDphMklIVFRMR0JTVUxDSw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="335" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;28</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;28</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 28&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMTQ3OkhJR0hMSUdIVDphMklIVFRMR0JTVUxDSw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMTQ3OkhJR0hMSUdIVDphMklIVFRMR0JTVUxDSw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMTQ3OkhJR0hMSUdIVDphMklIVFRMR0JTVUxDSw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">remorse.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMTU0Ok5PVEU6YTJFM0lEWjNNVkozRVc" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">penyesalan; regret; sorrow</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMzY3OkhJR0hMSUdIVDphMVQ2Rk41QUpTSzA4QQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="336" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;28</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;28</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 28&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMzY3OkhJR0hMSUdIVDphMVQ2Rk41QUpTSzA4QQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMzY3OkhJR0hMSUdIVDphMVQ2Rk41QUpTSzA4QQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMzY3OkhJR0hMSUdIVDphMVQ2Rk41QUpTSzA4QQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">bewildered</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUwMzc2Ok5PVEU6YTNHTlNYSjZSQ0k2SEY" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">puzzled; confused; bingung</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxNjQ0OkhJR0hMSUdIVDphMlNUVVA3V1JMQ0NMWg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="345" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;29</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;29</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 29&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxNjQ0OkhJR0hMSUdIVDphMlNUVVA3V1JMQ0NMWg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxNjQ0OkhJR0hMSUdIVDphMlNUVVA3V1JMQ0NMWg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxNjQ0OkhJR0hMSUdIVDphMlNUVVA3V1JMQ0NMWg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">adequately</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxNjUzOk5PVEU6YTFEMUY2UEMxOEVYV0Y" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">cukup; memadai; suffice; good enough</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTExOkhJR0hMSUdIVDphMzNKMjAxMjVUNzg1Vw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="347" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;29</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;29</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 29&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTExOkhJR0hMSUdIVDphMzNKMjAxMjVUNzg1Vw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTExOkhJR0hMSUdIVDphMzNKMjAxMjVUNzg1Vw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTExOkhJR0hMSUdIVDphMzNKMjAxMjVUNzg1Vw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">nondescript</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTIxOk5PVEU6YUlVRk5SUVdYTlQ3TQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">tidak jelas; undistinguished; unremarkable</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTYyOkhJR0hMSUdIVDphM1MzN1dQV0w0VlpXQg" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="347" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;29</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;29</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 29&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTYyOkhJR0hMSUdIVDphM1MzN1dQV0w0VlpXQg-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTYyOkhJR0hMSUdIVDphM1MzN1dQV0w0VlpXQg" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTYyOkhJR0hMSUdIVDphM1MzN1dQV0w0VlpXQg" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">tunic.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUxOTY3Ok5PVEU6YTFVNjMwNzBQMTUwNkU" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">jubah; baju seperti yang biasa dipakai oleh orang Yunani / Romawi kuno</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMDMzOkhJR0hMSUdIVDphMzlEOVJCVFFHOUFLSQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="347" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;29</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;29</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 29&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMDMzOkhJR0hMSUdIVDphMzlEOVJCVFFHOUFLSQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMDMzOkhJR0hMSUdIVDphMzlEOVJCVFFHOUFLSQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMDMzOkhJR0hMSUdIVDphMzlEOVJCVFFHOUFLSQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">remarkable</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMDQyOk5PVEU6YTNVSlJOSUxBNlpXWVo" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">luar biasa; yang patut diperhatikan; exceptional; extraordinary</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMzQ5OkhJR0hMSUdIVDphMTBZMTkyTTRBODUyRA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="349" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMzQ5OkhJR0hMSUdIVDphMTBZMTkyTTRBODUyRA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMzQ5OkhJR0hMSUdIVDphMTBZMTkyTTRBODUyRA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMzQ5OkhJR0hMSUdIVDphMTBZMTkyTTRBODUyRA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">squinting</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyMzU3Ok5PVEU6YTNUOEdNQzI4RlNMM0Y" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">menyipitkan mata</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyNjM5OkhJR0hMSUdIVDphMTBOWDRFNVNCVU1CQw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="351" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyNjM5OkhJR0hMSUdIVDphMTBOWDRFNVNCVU1CQw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyNjM5OkhJR0hMSUdIVDphMTBOWDRFNVNCVU1CQw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyNjM5OkhJR0hMSUdIVDphMTBOWDRFNVNCVU1CQw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">mystified.</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUyNjQ4Ok5PVEU6YVNTV0ZMQUQ3REEzSQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">takjub; tercengang; amaze; astonish</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDAwOkhJR0hMSUdIVDphRTNJMFBKTVA0UUhM" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="354" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDAwOkhJR0hMSUdIVDphRTNJMFBKTVA0UUhM-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDAwOkhJR0hMSUdIVDphRTNJMFBKTVA0UUhM" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDAwOkhJR0hMSUdIVDphRTNJMFBKTVA0UUhM" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">laughter</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDA3Ok5PVEU6YTEwN0E5NjA3TTc2U1c" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">the action or sound of laughing; tawa</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDI5OkhJR0hMSUdIVDphUTVGWTRJN0hMSDlY" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="354" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDI5OkhJR0hMSUdIVDphUTVGWTRJN0hMSDlY-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDI5OkhJR0hMSUdIVDphUTVGWTRJN0hMSDlY" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDI5OkhJR0hMSUdIVDphUTVGWTRJN0hMSDlY" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">uneasy</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDM0Ok5PVEU6YTFGUFZTUTVVWkpHTkk" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">uncomfortable; anxious; worried</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDM2OkhJR0hMSUdIVDphMk1LSElWUzY2TjJMQw" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="354" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDM2OkhJR0hMSUdIVDphMk1LSElWUzY2TjJMQw-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDM2OkhJR0hMSUdIVDphMk1LSElWUzY2TjJMQw" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDM2OkhJR0hMSUdIVDphMk1LSElWUzY2TjJMQw" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">conviction</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMDQ1Ok5PVEU6YTE3QllCVVBJUUdSRFE" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">keyakinan; belief; faith</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMjEwOkhJR0hMSUdIVDphMjdMMVVUNE1SNDZWOQ" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="355" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;30</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;30</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 30&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMjEwOkhJR0hMSUdIVDphMjdMMVVUNE1SNDZWOQ-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMjEwOkhJR0hMSUdIVDphMjdMMVVUNE1SNDZWOQ" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMjEwOkhJR0hMSUdIVDphMjdMMVVUNE1SNDZWOQ" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">dwelling,</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzMjE4Ok5PVEU6YTFSSjNGODIxRkdDTEc" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">tempat tinggal; residence; habitation; home; house</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzNzkxOkhJR0hMSUdIVDphMktOTVgxWktYVEtQWA" class="a-row a-spacing-base">
+	<div
+		class="a-column a-span10 kp-notebook-row-separator">
+		<!-- Header row containing: optionally a star, note/highlight label, page/location information, and an
+			options dropdown -->
+		<div class="a-row"><input
+			type="hidden" name="" value="359" id="kp-annotation-location"/>
+			<!-- optional star, note/highlight label, page/location -->
+			<div class="a-column a-span8">
+				<!-- Star, if necessary -->
+				<!-- Highlight -->
+				<!-- Highlight header --><span id="annotationHighlightHeader" class="a-size-small a-color-secondary kp-notebook-selectable kp-notebook-metadata"> Yellow highlight | Page:&nbsp;31</span>
+				<!-- Note header in case highlight is deleted, and we need to have the note header -->
+				<span id="annotationNoteHeader" class="a-size-small a-color-secondary aok-hidden kp-notebook-selectable kp-notebook-metadata">Note | Page:&nbsp;31</span>
+				<!-- Freestanding note header -->
+			</div>
+			<!-- the Options menu -->
+			<div class="a-column a-span4 a-text-right a-span-last">
+				<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;closeButtonLabel&quot;:&quot;Close&quot;,&quot;activate&quot;:&quot;onclick&quot;,&quot;width&quot;:&quot;200&quot;,&quot;name&quot;:&quot;optionsPopover&quot;,&quot;position&quot;:&quot;triggerVerticalAlignLeft&quot;,&quot;popoverLabel&quot;:&quot;Options for annotations at Page 31&quot;}" id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzNzkxOkhJR0hMSUdIVDphMktOTVgxWktYVEtQWA-action">
+					<a id="popover-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzNzkxOkhJR0hMSUdIVDphMktOTVgxWktYVEtQWA" href="javascript:void(0)" class="a-popover-trigger a-declarative">Options<i class="a-icon a-icon-popover"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- Container for text content of the note / highlight -->
+		<div class="a-row a-spacing-top-medium">
+			<div class="a-column a-span10 a-spacing-small kp-notebook-print-override">
+				<!-- Highlight with a child note -->
+				<!-- Highlight text -->
+					<div id="highlight-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzNzkxOkhJR0hMSUdIVDphMktOTVgxWktYVEtQWA" class="a-row kp-notebook-highlight kp-notebook-selectable kp-notebook-highlight-yellow"> <span id="highlight" class="a-size-base-plus a-color-base">singled him out</span>
+					<div></div>
+				</div>
+				<!-- Child note text -->
+				<!-- FIX HERE!! -->
+				<div id="note-QVdDWVcxOEY2WEhUSDpCMDBBTEtPOVdFOjUzODA1Ok5PVEU6YTFYVzFaWjJYUEhVNjQ" class="a-row a-spacing-top-base kp-notebook-note kp-notebook-selectable">
+					<span id="note-label" class="a-size-small a-color-secondary">Note:<span class="a-letter-space"></span>
+					</span>
+					<span id="note" class="a-size-base-plus a-color-base">merujuk pada dirinya;</span>
+				</div>
+				<!-- END HERE!! -->
+			<!-- Highlight without a child note -->
+				<!-- Orphaned note without associated highlight -->
+			</div>
+		</div>
+	</div>
+</div>
+<div id="empty-annotations-pane" class="a-row aok-hidden">
+	<div class="a-column a-span6 a-push3">
+
+
+		<div class="a-box a-spacing-top-extra-large a-box-normal a-color-base-background a-text-center">
+			<div class="a-box-inner">
+				<div class="a-row a-spacing-large a-spacing-top-medium">
+					<div class="a-column a-span4 a-push4">
+						<img alt="" src="img/Note_icon.png" class="kp-notebook-cover-image" height="44"/>
+					</div>
+				</div>
+				<p class="a-spacing-medium a-size-medium a-text-bold">
+					Would you like to take some notes?</p>
+				<span>
+					You haven’t created any notes for this book yet. You can add or remove bookmarks, highlights, and notes at any location in a Kindle book.
+				</span>
+				<div class="a-row a-spacing-extra-large a-spacing-top-medium">
+					<a class="a-link-emphasis" target="_blank" rel="noopener" href="https://www.amazon.com.au/gp/help/customer/display.html?nodeId=201733790">
+						Learn more about notes and highlights</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

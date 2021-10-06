@@ -1,5 +1,24 @@
 import { SELECTOR } from "@/reference";
 import { Book } from "@/types";
+import { render } from "mustache";
+
+export const hasEmailAndPasswordInput = (): boolean => {
+	const email = document.querySelector(SELECTOR.SIGNIN.EMAIL);
+	const password = document.querySelector(SELECTOR.SIGNIN.PASSWORD);
+
+	if (email && password) {
+		return true;
+	}
+	return false;
+};
+
+export const extractSignInErrorMessage = (): string => {
+	const element = document.querySelector(SELECTOR.SIGNIN.ERROR);
+	if (element) {
+		return element.textContent as string;
+	}
+	return "Unable to retrieve sign-in error message";
+};
 
 export const extractAnnotatedBooks = (): Array<Book> => {
 	const fixAuthor = (author: string | null | undefined) => author && author.startsWith("By: ") ?
@@ -24,20 +43,7 @@ export const extractAnnotatedBooks = (): Array<Book> => {
 	return books;
 };
 
-export const hasEmailAndPasswordInput = (): boolean => {
-	const email = document.querySelector(SELECTOR.SIGNIN.EMAIL);
-	const password = document.querySelector(SELECTOR.SIGNIN.PASSWORD);
-
-	if (email && password) {
-		return true;
-	}
-	return false;
-};
-
-export const extractSignInErrorMessage = (): string => {
-	const element = document.querySelector(SELECTOR.SIGNIN.ERROR);
-	if (element) {
-		return element.textContent as string;
-	}
-	return "Unable to retrieve sign-in error message";
+export const elementExists = (selector: string): boolean => {
+	const element = document.querySelector(selector);
+	return element !== null;
 };
