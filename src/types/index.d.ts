@@ -5,13 +5,15 @@ export interface Preferences {
 }
 
 export interface Configuration extends Preferences {
-	email?: string;
-	password?: string;
+	amazonEmail?: string;
+	amazonPassword?: string;
 	keepSignIn?: boolean;
 	selectedBooks?: string[];
 	loadPreferences?: boolean;
 	savePreferences?: boolean;
 }
+
+export interface Answer extends Configuration {}
 
 export interface SignInResult {
 	signedIn: boolean;

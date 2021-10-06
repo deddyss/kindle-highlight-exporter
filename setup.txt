@@ -15,7 +15,7 @@ npm install --save tslib
 npm install --save puppeteer 
 npm install --save jsdom
 npm install --save mustache
-npm install --save inquirer chalk ora cli-progress
+npm install --save inquirer chalk ora cli-progress email-validator
 
 npx ts-jest config:init
 

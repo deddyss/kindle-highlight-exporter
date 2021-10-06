@@ -37,18 +37,18 @@ class Kindle {
 			return result;
 		}
 	
-		if (this.config.email === undefined || this.config.password === undefined) {
+		if (this.config.amazonEmail === undefined || this.config.amazonPassword === undefined) {
 			result.signedIn = false;
 			result.error = "Undefined email and/or password";
 			return result;
 		}
 	
 		await this.page.click(SELECTOR.SIGNIN.EMAIL);
-		await this.page.keyboard.type(this.config.email);
+		await this.page.keyboard.type(this.config.amazonEmail);
 		await this.page.waitForTimeout(delay);
 	
 		await this.page.click(SELECTOR.SIGNIN.PASSWORD);
-		await this.page.keyboard.type(this.config.password);
+		await this.page.keyboard.type(this.config.amazonPassword);
 		await this.page.waitForTimeout(delay);
 	
 		if (this.config.keepSignIn) {
