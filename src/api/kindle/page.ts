@@ -1,6 +1,5 @@
 import { SELECTOR } from "@/reference";
 import { Book } from "@/types";
-import { render } from "mustache";
 
 export const hasEmailAndPasswordInput = (): boolean => {
 	const email = document.querySelector(SELECTOR.SIGNIN.EMAIL);
@@ -18,6 +17,11 @@ export const extractSignInErrorMessage = (): string => {
 		return element.textContent as string;
 	}
 	return "Unable to retrieve sign-in error message";
+};
+
+export const extractUsername = (): string => {
+	const element = document.querySelector(SELECTOR.USERNAME);
+	return element?.textContent ?? "";
 };
 
 export const extractAnnotatedBooks = (): Array<Book> => {

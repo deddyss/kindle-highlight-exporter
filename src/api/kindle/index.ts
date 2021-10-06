@@ -2,7 +2,7 @@ import { HTTPRequest, HTTPResponse, Page } from "puppeteer";
 import { render } from "mustache";
 import { SignInResult, Configuration, Highlight, Book } from "@/types";
 import { SELECTOR } from "@/reference";
-import { elementExists, extractAnnotatedBooks, extractSignInErrorMessage, hasEmailAndPasswordInput } from "./page";
+import { elementExists, extractAnnotatedBooks, extractSignInErrorMessage, extractUsername, hasEmailAndPasswordInput } from "./page";
 import { extractHighlights } from "./dom";
 
 class Kindle {
@@ -66,6 +66,11 @@ class Kindle {
 		}
 	
 		return result;
+	}
+
+	public async getUsername(): Promise<string> {
+		const username = await this.page.evaluate(extractUsername);
+		return username;
 	}
 
 	public async getBooks(): Promise<Array<Book>> {

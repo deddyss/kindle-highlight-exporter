@@ -1,4 +1,5 @@
 export const SELECTOR = {
+	USERNAME: "div[id=kp-notebook-head] span.kp-notebook-username",
 	SIGNIN: {
 		EMAIL: "input[type=email][name=email]",
 		PASSWORD: "input[type=password][name=password]",

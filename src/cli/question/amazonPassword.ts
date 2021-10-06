@@ -6,12 +6,12 @@ const amazonPasswordQuestion: PasswordQuestionOptions = {
 	type: "password",
 	mask: "*",
 	name: "apiToken",
-	message: `What is your Amazon ${chalk.bold.yellow("password")}`,
+	message: `What is your ${chalk.bold.yellow("password")}`,
 	validate: (input?: string) => {
 		if (input) {
 			return true;
 		}
-		return "You must provide your Amazon password before proceeding";
+		return "You must provide your password before proceeding";
 	},
 	prefix,
 	suffix
