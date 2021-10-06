@@ -1,3 +1,25 @@
+import path from "path";
+import app from "app-root-path";
+
+export const INFORMATION = {
+	USER: {
+		LOAD: "Loading user information",
+		FAIL: "Cannot retrieve user information"
+	},
+	SURVEY: {
+		LOAD: {
+			ALL: "Retrieving all your surveys",
+			ACTIVE: "Retrieving your active surveys"
+		},
+		FAIL: "Cannot retrieve survey list"
+	}
+};
+
+export const DIRECTORY = {
+	SETTING: path.join(app.path, "./setting"),
+	OUTPUT: path.join(app.path, "./output"),
+}
+
 export const SELECTOR = {
 	USERNAME: "div[id=kp-notebook-head] span.kp-notebook-username",
 	SIGNIN: {

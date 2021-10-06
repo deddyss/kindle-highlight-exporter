@@ -18,7 +18,11 @@ class Kindle {
 		this.signInUrl = `https://www.${config.amazonRegion}/ap/signin`;
 	}
 
-	public async openNotebook (): Promise<Boolean> {
+	public updateConfiguration(config: Configuration) {
+		this.config = config;
+	}
+
+	public async openNotebook (): Promise<boolean> {
 		await this.page.goto(this.notebookUrl, { waitUntil: "networkidle0" });
 		
 		if (this.page.url() !== this.notebookUrl) {

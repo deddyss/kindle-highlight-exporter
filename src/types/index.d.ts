@@ -1,3 +1,5 @@
+import { SingleBar } from "cli-progress";
+
 export interface Preferences {
 	useChrome?: boolean;
 	amazonRegion?: string;
@@ -26,9 +28,12 @@ export interface Book {
 	author?: string | null;
 	cover?: string | null;
 	lastAccess: Date;
+	hightlights?: Highlight[];
 }
 
 export interface Highlight {
 	text: string;
 	note?: string;
 }
+
+export class ProgressBar extends SingleBar {}
