@@ -10,7 +10,8 @@ const referenceToChoiceOptions = (): ChoiceOptions[] => {
 	return Object.keys(REGIONS).map(
 		(value: string) => ({
 			name: (REGIONS as Record<string, string>)[value],
-			value
+			value,
+			short: value
 		} as ChoiceOptions)
 	);
 };

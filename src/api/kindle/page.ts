@@ -1,44 +1,20 @@
-import { SELECTOR } from "@/reference";
-import { Book } from "@/types";
+import { Book, BookSelector } from "@/types";
 
-export const hasEmailAndPasswordInput = (): boolean => {
-	const email = document.querySelector(SELECTOR.SIGNIN.EMAIL);
-	const password = document.querySelector(SELECTOR.SIGNIN.PASSWORD);
-
-	if (email && password) {
-		return true;
-	}
-	return false;
-};
-
-export const extractSignInErrorMessage = (): string => {
-	const element = document.querySelector(SELECTOR.SIGNIN.ERROR);
-	if (element) {
-		return element.textContent as string;
-	}
-	return "Unable to retrieve sign-in error message";
-};
-
-export const extractUsername = (): string => {
-	const element = document.querySelector(SELECTOR.USERNAME);
-	return element?.textContent ?? "";
-};
-
-export const extractAnnotatedBooks = (): Array<Book> => {
+export const extractAnnotatedBooks = (selector: BookSelector): Array<Book> => {
 	const fixAuthor = (author: string | null | undefined) => author && author.startsWith("By: ") ?
 		author.substr(4) : author;
 	const parseDate = (str: string | null | undefined) => str ? new Date(str + " UTC") : new Date(); 
 
 	const books: Array<Book> = [];
-	const elements:NodeListOf<HTMLElement> = document.querySelectorAll(SELECTOR.BOOKS);
+	const elements:NodeListOf<HTMLElement> = document.querySelectorAll(selector.books);
 	elements.forEach((element: HTMLElement) => {
 		const id = element.getAttribute("id");
-		const title = element.querySelector(SELECTOR.BOOK.TITLE)?.textContent;
+		const title = element.querySelector(selector.title)?.textContent;
 		if (id && title) {
-			const author = fixAuthor(element.querySelector(SELECTOR.BOOK.AUTHOR)?.textContent);
-			const cover = element.querySelector(SELECTOR.BOOK.COVER)?.getAttribute("src");
+			const author = fixAuthor(element.querySelector(selector.author)?.textContent);
+			const cover = element.querySelector(selector.cover)?.getAttribute("src");
 			const lastAccess = parseDate(
-				element.querySelector(SELECTOR.BOOK.LAST_ACCESS)?.getAttribute("value")
+				element.querySelector(selector.lastAccess)?.getAttribute("value")
 			);
 			books.push({ id, title, author, cover, lastAccess });
 		}
@@ -47,7 +23,17 @@ export const extractAnnotatedBooks = (): Array<Book> => {
 	return books;
 };
 
-export const elementExists = (selector: string): boolean => {
+export const extractTextContent = (selector: string): string => {
 	const element = document.querySelector(selector);
-	return element !== null;
+	return element?.textContent ?? "";
+};
+
+export const elementExists = (...selectors: string[]): boolean => {
+	for (const selector of selectors) {
+		const element = document.querySelector(selector);
+		if (element === null) {
+			return false;
+		}
+	}
+	return true;
 };

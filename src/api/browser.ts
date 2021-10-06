@@ -4,6 +4,7 @@ import puppeteer, { Browser, Page } from "puppeteer";
 
 export const launchBrowser = async (config: Configuration): Promise<{ browser: Browser, page: Page }> => {
 	const browser: Browser = await puppeteer.launch({
+		// TODO:
 		// headless: false,
 		defaultViewport: null,
 		executablePath: config.useChrome ? getChromeExecutablePath() : undefined,

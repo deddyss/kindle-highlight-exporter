@@ -36,7 +36,7 @@ const booksToChoiceOptions = (books: Book[], answer: Answer): CheckboxChoiceOpti
 	return choices;
 };
 
-const message = (books: Book[], answer: Answer): string => {
+const message = (books: Book[]): string => {
 	return `You have ${chalk.bold.yellow(books.length)} annotated book(s). ` 
 		+ `Please ${chalk.bold.yellow("select")} the ${chalk.bold.yellow("book")} you want to export the highlight below`
 };
@@ -44,7 +44,7 @@ const message = (books: Book[], answer: Answer): string => {
 const selectBooksQuestion = (books: Book[], answer: Answer): CheckboxQuestionOptions<Answer> => ({
 	type: "checkbox",
 	name: "selectedBooks",
-	message: message(books, answer),
+	message: message(books),
 	choices: booksToChoiceOptions(books, answer),
 	suffix: chalk.bold.cyan("!"),
 	validate: (input?: string[]) => {

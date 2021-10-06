@@ -5,7 +5,7 @@ import { prefix, suffix } from "./options";
 const amazonPasswordQuestion: PasswordQuestionOptions = {
 	type: "password",
 	mask: "*",
-	name: "apiToken",
+	name: "amazonPassword",
 	message: `What is your ${chalk.bold.yellow("password")}`,
 	validate: (input?: string) => {
 		if (input) {

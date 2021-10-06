@@ -2,7 +2,7 @@ import { prompt, QuestionCollection } from "inquirer";
 import { Browser, Page } from "puppeteer";
 import { close, launchBrowser } from "./api/browser";
 import Kindle from "./api/kindle";
-import { writeBookToFile } from "./api/kindle/book";
+import { findBook, writeBookToFile } from "./api/kindle/book";
 import { printNewLine, printOutputDirectoryPath } from "./cli/console";
 import useChromeQuestion from "./cli/question/useChrome";
 import amazonRegionQuestion from "./cli/question/amazonRegion";
@@ -41,17 +41,46 @@ const openKindleNotebook = async (kindle: Kindle, answer: Answer): Promise<boole
 		kindle.updateConfiguration(answer);
 		
 		spinner.start("Signing in")
-		let error: string | undefined;
-		({ signedIn, error } = await kindle.signIn());
+		let captchaDetected: boolean, error: string | undefined;
+		({ signedIn, captchaDetected, error } = await kindle.signIn());
 		// still not signed-in
 		if (!signedIn) {
-			spinner.fail(error ? error : "Cannot sign-in to Amazon with provided email and password");
+			if (captchaDetected) {
+				spinner.fail("Captcha detected. Please sign in to Amazon using Chrome browser and then you can use this tool again");
+			}
+			else {
+				spinner.fail(error ? error.trim() : "Cannot sign-in to Amazon with provided email and password");
+			}
 			return false;
 		}
 	}
 	spinner.stop();
 	return true;
 };
+
+const exportHighlights = async (kindle: Kindle, books: Book[], selectedBooks: string[]): Promise<void> => {
+	// create output directory to store hightlights
+	const uniquePathName: string = safeCurrentDateTimePathName();
+	const outputDirectory = createOutputDirectory(uniquePathName);
+
+	printNewLine();
+	const progressBar: ProgressBar = createProgressBar();
+	progressBar.start(selectedBooks.length, 0);
+
+	for (const id of selectedBooks) {
+		const book = findBook(id, books);
+		if (book) {
+			book.hightlights = await kindle.getHighlights(book.id);
+			writeBookToFile(book, outputDirectory);
+	
+			progressBar.increment();
+			sleep(1000);	
+		}
+	}
+	progressBar.stop();
+
+	printOutputDirectoryPath(outputDirectory);
+}
 
 const handlePreferences = (answer: Answer): void => {
 	if (answer.savePreferences === true) {
@@ -98,6 +127,7 @@ const main = async () => {
 
 		const notebookOpened: boolean = await openKindleNotebook(kindle, answer);
 		if (!notebookOpened) {
+			handlePreferences(answer);
 			return;
 		}
 
@@ -119,24 +149,9 @@ const main = async () => {
 
 		handlePreferences(answer);
 
-		// create output directory to store hightlights
-		const uniquePathName: string = safeCurrentDateTimePathName();
-		const outputDirectory = createOutputDirectory(uniquePathName);
-
-		printNewLine();
-		const progressBar: ProgressBar = createProgressBar();
-		progressBar.start(books.length, 0);
-
-		for (const book of books) {
-			book.hightlights = await kindle.getHighlights(book.id);
-			writeBookToFile(book, outputDirectory);
-
-			progressBar.increment();
-			sleep(1000);
+		if (answer.selectedBooks) {
+			await exportHighlights(kindle, books, answer.selectedBooks);
 		}
-		progressBar.stop();
-
-		printOutputDirectoryPath(outputDirectory);
 	}
 	catch (error) {
 		if (error) {
@@ -144,7 +159,8 @@ const main = async () => {
 		}
 	}
 	finally {
-		await close({ page, browser })
+		// TODO:
+		// await close({ page, browser })
 	}
 };
 

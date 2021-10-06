@@ -1,4 +1,5 @@
 import { SingleBar } from "cli-progress";
+import { JSONObject } from "puppeteer";
 
 export interface Preferences {
 	useChrome?: boolean;
@@ -19,7 +20,16 @@ export interface Answer extends Configuration {}
 
 export interface SignInResult {
 	signedIn: boolean;
+	captchaDetected: boolean;
 	error?: string;
+}
+
+export interface BookSelector extends JSONObject {
+	books: string;
+	title: string;
+	author: string;
+	cover: string;
+	lastAccess: string;
 }
 
 export interface Book {

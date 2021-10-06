@@ -1,8 +1,8 @@
 import { HTTPRequest, HTTPResponse, Page } from "puppeteer";
 import { render } from "mustache";
-import { SignInResult, Configuration, Highlight, Book } from "@/types";
+import { SignInResult, Configuration, Highlight, Book, BookSelector } from "@/types";
 import { SELECTOR } from "@/reference";
-import { elementExists, extractAnnotatedBooks, extractSignInErrorMessage, extractUsername, hasEmailAndPasswordInput } from "./page";
+import { elementExists, extractAnnotatedBooks, extractTextContent } from "./page";
 import { extractHighlights } from "./dom";
 
 class Kindle {
@@ -32,12 +32,14 @@ class Kindle {
 	};
 
 	public async signIn(delay: number = 500): Promise<SignInResult> {
-		const result: SignInResult = { signedIn: true }; 
-		const onSignInPage = await this.page.evaluate(hasEmailAndPasswordInput);
-	
+		const result: SignInResult = { signedIn: true, captchaDetected: false };
+		const onSignInPage = await this.page.evaluate(
+			elementExists, SELECTOR.SIGNIN.EMAIL, SELECTOR.SIGNIN.PASSWORD
+		);
+
 		if (!onSignInPage) {
 			result.signedIn = false;
-			result.error = "Invalid sign in form";
+			result.error = "Invalid sign-in form";
 			return result;
 		}
 	
@@ -66,19 +68,29 @@ class Kindle {
 		// still on sign-in page after navigation, it could be an authentication error
 		if (this.page.url().startsWith(this.signInUrl)) {
 			result.signedIn = false;
-			result.error = await this.page.evaluate(extractSignInErrorMessage);
+			result.captchaDetected = await this.page.evaluate(elementExists, SELECTOR.SIGNIN.CAPTCHA);
+			result.error = await this.page.evaluate(extractTextContent, SELECTOR.SIGNIN.ERROR);
 		}
 	
 		return result;
 	}
 
 	public async getUsername(): Promise<string> {
-		const username = await this.page.evaluate(extractUsername);
+		const username = await this.page.evaluate(extractTextContent, SELECTOR.USERNAME);
 		return username;
 	}
 
 	public async getBooks(): Promise<Array<Book>> {
-		const books = await this.page.evaluate(extractAnnotatedBooks);
+		const selector: BookSelector = {
+			books: SELECTOR.BOOKS,
+			title: SELECTOR.BOOK.TITLE,
+			author: SELECTOR.BOOK.AUTHOR,
+			cover: SELECTOR.BOOK.COVER,
+			lastAccess: SELECTOR.BOOK.LAST_ACCESS
+		};
+		const books = await this.page.evaluate(
+			extractAnnotatedBooks, selector
+		);
 		return books;
 	}
 
@@ -89,12 +101,12 @@ class Kindle {
 			return [];
 		}
 	
-		const requestHighlightUrl: string = `${this.notebookUrl}?asin=${id}`;
+		const requestHighlightPartialUrl: string = `/notebook?asin=${id}`;
 		const highlights: Array<Highlight> = [];
 	
 		const responseHandler = (response: HTTPResponse) => {
 			const request: HTTPRequest = response.request();
-			if (request.resourceType() !== "xhr" || !request.url().startsWith(requestHighlightUrl)) {
+			if (request.resourceType() !== "xhr" || !request.url().includes(requestHighlightPartialUrl)) {
 				return;
 			}
 			response.text().then((html: string) => {

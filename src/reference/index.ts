@@ -1,20 +1,6 @@
 import path from "path";
 import app from "app-root-path";
 
-export const INFORMATION = {
-	USER: {
-		LOAD: "Loading user information",
-		FAIL: "Cannot retrieve user information"
-	},
-	SURVEY: {
-		LOAD: {
-			ALL: "Retrieving all your surveys",
-			ACTIVE: "Retrieving your active surveys"
-		},
-		FAIL: "Cannot retrieve survey list"
-	}
-};
-
 export const DIRECTORY = {
 	SETTING: path.join(app.path, "./setting"),
 	OUTPUT: path.join(app.path, "./output"),
@@ -28,6 +14,7 @@ export const SELECTOR = {
 		REMEMBER_ME: "input[type=checkbox][name=rememberMe]",
 		SUBMIT: "input[type=submit][id=signInSubmit]",
 		ERROR: "div[id=auth-error-message-box] span",
+		CAPTCHA: "div[id=image-captcha-section]"
 	},
 	BOOKS: ".kp-notebook-library-each-book",
 	BOOK: {

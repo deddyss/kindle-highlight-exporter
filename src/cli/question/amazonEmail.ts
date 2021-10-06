@@ -5,8 +5,8 @@ import { prefix, suffix } from "./options";
 
 const amazonEmailQuestion: InputQuestionOptions = {
 	type: "input",
-	name: "apiToken",
-	message: `What is your email ${chalk.bold.yellow("email")} address`,
+	name: "amazonEmail",
+	message: `What is your ${chalk.bold.yellow("email")} address`,
 	validate: (input?: string) => {
 		if (input) {
 			return validate(input) || "Invalid email address";
