@@ -2,7 +2,7 @@
 	"name": "kindle-highlight-exporter",
 	"version": "1.0.0",
 	"description": "Simple tool to export highlights from Amazon Kindle annotated books automatically",
-	"main": "index.js",
+	"main": "src/app.ts",
 	"scripts": {
 		"start": "ts-node -r tsconfig-paths/register src/app.ts",
 		"test": "jest --verbose"
