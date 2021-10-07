@@ -1,5 +1,6 @@
 import path from "path";
 import fs from "fs";
+import pino, { Logger } from "pino";
 import { DIRECTORY } from "@/reference";
 
 export const isChromeAvailable = (): boolean => {
@@ -89,4 +90,32 @@ export const createOutputDirectory = (name: string): string => {
 		fs.mkdirSync(directoryPath, { recursive: true });
 	}
 	return directoryPath;
+};
+
+export const createLogFile = (name: string): string => {
+	const filePath = path.join(DIRECTORY.LOG, name.endsWith(".log") ? name : name.concat(".log"));
+	if (!fs.existsSync(DIRECTORY.LOG)) {
+		fs.mkdirSync(DIRECTORY.LOG, { recursive: true });
+	}
+	if (!fs.existsSync(filePath)) {
+		// create empty log file
+		fs.closeSync(fs.openSync(filePath, "w"));
+	}
+	return filePath;
+};
+
+export const createLogger = (filePath: string): Logger => {
+	const destination = pino.destination(filePath);
+	const logger = pino(
+		{
+			prettyPrint: {
+				colorize: false,
+				translateTime: "SYS:yyyy-mm-dd HH:MM:ss.l"
+			},
+			level: "trace",
+			redact: ["*.amazonEmail", "*.amazonPassword"]
+		},
+		destination
+	);
+	return logger;
 };

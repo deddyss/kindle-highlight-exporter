@@ -11,6 +11,7 @@ npm install --save-dev @types/jsdom
 npm install --save-dev @types/mustache
 npm install --save-dev @types/inquirer @types/cli-progress
 npm install --save-dev @types/app-root-path
+npm install --save-dev @types/pino
 
 npm install --save tslib
 npm install --save puppeteer 
@@ -18,6 +19,7 @@ npm install --save jsdom
 npm install --save mustache
 npm install --save inquirer chalk ora@5.4.1 cli-progress email-validator
 npm install --save app-root-path
+npm install --save pino pino-pretty
 
 npx ts-jest config:init
 

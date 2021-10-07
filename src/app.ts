@@ -1,5 +1,6 @@
 import { prompt, QuestionCollection } from "inquirer";
 import { Browser, Page } from "puppeteer";
+import { Logger } from "pino";
 import { close, launchBrowser } from "./api/browser";
 import Kindle from "./api/kindle";
 import { findBook, writeBookToFile } from "./api/kindle/book";
@@ -15,7 +16,7 @@ import { greeting, info } from "./cli/statement";
 import createProgressBar from "./cli/progressBar";
 import spinner from "./cli/spinner";
 import { Answer, Book, ProgressBar } from "./types";
-import { createOutputDirectory, isChromeAvailable, isNotEmpty, safeCurrentDateTimePathName, sleep } from "./util";
+import { createLogFile, createLogger, createOutputDirectory, isChromeAvailable, isNotEmpty, safeCurrentDateTimePathName, sleep } from "./util";
 import { deletePreferences, isPreferencesExist, loadPreferences, savePreferences, showPreferences } from "./util/preferences";
 
 const showGreetingAndInformation = async () => {
@@ -29,6 +30,14 @@ const showGreetingAndInformation = async () => {
 
 const ask = (questions: QuestionCollection, initialAnswer?: Answer): Promise<Answer> => {
 	return prompt<Answer>(questions, initialAnswer);
+};
+
+const createLog = (): Logger => {
+	// initiate log
+	const uniquePathName: string = safeCurrentDateTimePathName();
+	const logFilePath: string = createLogFile(uniquePathName);
+	const log: Logger = createLogger(logFilePath);
+	return log;
 };
 
 const openKindleNotebook = async (kindle: Kindle, answer: Answer): Promise<boolean> => {
@@ -46,7 +55,7 @@ const openKindleNotebook = async (kindle: Kindle, answer: Answer): Promise<boole
 		// still not signed-in
 		if (!signedIn) {
 			if (captchaDetected) {
-				spinner.fail("Captcha detected. Please sign in to Amazon using Chrome browser and then you can use this tool again");
+				spinner.fail("Captcha detected. Please sign in to Amazon using Chrome browser and then you may use this tool again");
 			}
 			else {
 				spinner.fail(error ? error.trim() : "Cannot sign-in to Amazon with provided email and password");
@@ -58,7 +67,9 @@ const openKindleNotebook = async (kindle: Kindle, answer: Answer): Promise<boole
 	return true;
 };
 
-const exportHighlights = async (kindle: Kindle, books: Book[], selectedBooks: string[]): Promise<void> => {
+const exportHighlights = async (
+	kindle: Kindle, books: Book[], selectedBooks: string[], log: Logger
+): Promise<void> => {
 	// create output directory to store hightlights
 	const uniquePathName: string = safeCurrentDateTimePathName();
 	const outputDirectory = createOutputDirectory(uniquePathName);
@@ -67,12 +78,22 @@ const exportHighlights = async (kindle: Kindle, books: Book[], selectedBooks: st
 	const progressBar: ProgressBar = createProgressBar();
 	progressBar.start(selectedBooks.length, 0);
 
+	log.info(
+		"exporting highlights of %d book%s (from %d book%s)",
+		selectedBooks.length,
+		selectedBooks.length > 1 ? "s" : "",
+		books.length,
+		books.length > 1 ? "s" : ""
+	);
+
 	for (const id of selectedBooks) {
 		const book = findBook(id, books);
 		if (book) {
+			log.info("book %O", book);
 			book.hightlights = await kindle.getHighlights(book.id);
 			writeBookToFile(book, outputDirectory);
-	
+			log.info("retrieved %d highlights", book.hightlights.length);
+
 			progressBar.increment();
 			sleep(1000);	
 		}
@@ -98,6 +119,9 @@ const main = async () => {
 	let kindle: Kindle, books: Book[];
 
 	try {
+		// create log
+		const log: Logger = createLog();
+
 		await showGreetingAndInformation();
 
 		if (isPreferencesExist()) {
@@ -115,15 +139,17 @@ const main = async () => {
 		if (answer.useChrome === undefined && isChromeAvailable()) {
 			answer = await ask([useChromeQuestion], answer);
 		}
+		log.info("useChrome: %s", answer.useChrome);
 
 		// ask amazon website region
 		answer = await ask([amazonRegionQuestion], answer);
+		log.info("amazonRegion: %s", answer.amazonRegion);
 
 		// launch browser and get page
 		({ browser, page } = await launchBrowser(answer));
 
 		// init kindle
-		kindle = new Kindle(page, answer);
+		kindle = new Kindle(page, answer, log);
 
 		const notebookOpened: boolean = await openKindleNotebook(kindle, answer);
 		if (!notebookOpened) {
@@ -146,11 +172,10 @@ const main = async () => {
 			handlePreferences(answer);
 			return;
 		}
-
 		handlePreferences(answer);
 
 		if (answer.selectedBooks) {
-			await exportHighlights(kindle, books, answer.selectedBooks);
+			await exportHighlights(kindle, books, answer.selectedBooks, log);
 		}
 	}
 	catch (error) {
@@ -159,8 +184,7 @@ const main = async () => {
 		}
 	}
 	finally {
-		// TODO:
-		// await close({ page, browser })
+		await close({ page, browser })
 	}
 };
 

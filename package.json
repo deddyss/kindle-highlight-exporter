@@ -17,6 +17,7 @@
 		"@types/jsdom": "^16.2.13",
 		"@types/mustache": "^4.1.2",
 		"@types/node": "^16.10.2",
+		"@types/pino": "^6.3.11",
 		"@types/puppeteer": "^5.4.4",
 		"jest": "^27.2.4",
 		"ts-jest": "^27.0.5",
@@ -33,6 +34,8 @@
 		"jsdom": "^17.0.0",
 		"mustache": "^4.2.0",
 		"ora": "^5.4.1",
+		"pino": "^6.13.3",
+		"pino-pretty": "^7.0.1",
 		"puppeteer": "^10.4.0",
 		"tslib": "^2.3.1"
 	}

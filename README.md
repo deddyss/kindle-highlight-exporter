@@ -13,7 +13,7 @@ The problem is, the defaut export feature can only be done in the Amazon Kindle 
 
 ## Getting Started
 ### Prerequisites
-1. Your Amazon username and password to access [Kindle Cloud Reader](https://read.amazon.com/).
+1. Your Amazon username and password to access [Kindle Cloud Reader](https://read.amazon.com/). You might not need it as long as you're already signed in to Amazon on Chrome.
 2. You need to install [Node.js](https://nodejs.org/) runtime and [Git](https://git-scm.com/) on your machine.
 
 ### Installation
@@ -29,10 +29,6 @@ The problem is, the defaut export feature can only be done in the Amazon Kindle 
 4. Install NPM packages
    ```sh
    npm install
-   ```
-5. Build the app
-   ```sh
-   npm run build
    ```
 
 ## Usage
@@ -52,3 +48,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [CLI-Progress](https://github.com/npkgz/cli-progress)
 * [Chalk](https://github.com/chalk/chalk)
 * [Ora](https://github.com/sindresorhus/ora)
+* [App-root-path](https://github.com/inxilpro/node-app-root-path)
+* [Pino](https://getpino.io/)

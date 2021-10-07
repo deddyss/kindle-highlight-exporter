@@ -4,7 +4,8 @@ import app from "app-root-path";
 export const DIRECTORY = {
 	SETTING: path.join(app.path, "./setting"),
 	OUTPUT: path.join(app.path, "./output"),
-}
+	LOG: path.join(app.path, "./log"),
+};
 
 export const SELECTOR = {
 	USERNAME: "div[id=kp-notebook-head] span.kp-notebook-username",

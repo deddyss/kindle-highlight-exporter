@@ -5,6 +5,8 @@
 import path from "path";
 import fs from "fs";
 import { extractAnnotatedBooks } from "@/api/kindle/page";
+import { BookSelector } from "@/types";
+import { SELECTOR } from "@/reference";
 
 describe("Kindle annotated books", () => {
 	/**
@@ -21,7 +23,14 @@ describe("Kindle annotated books", () => {
 	});
 
 	test("Check extracted books", () => {
-		const books = extractAnnotatedBooks();
+		const selector: BookSelector = {
+			books: SELECTOR.BOOKS,
+			title: SELECTOR.BOOK.TITLE,
+			author: SELECTOR.BOOK.AUTHOR,
+			cover: SELECTOR.BOOK.COVER,
+			lastAccess: SELECTOR.BOOK.LAST_ACCESS
+		};
+		const books = extractAnnotatedBooks(selector);
 		// console.table(books);
 		expect(books.length).toBeGreaterThan(0);
 	});

@@ -37,7 +37,7 @@ export interface Book {
 	title: string;
 	author?: string | null;
 	cover?: string | null;
-	lastAccess: Date;
+	lastAccess: string;
 	hightlights?: Highlight[];
 }
 
