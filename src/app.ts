@@ -92,7 +92,7 @@ const exportHighlights = async (
 			log.info("book %O", book);
 			book.hightlights = await kindle.getHighlights(book.id);
 			writeBookToFile(book, outputDirectory);
-			log.info("retrieved %d highlights", book.hightlights.length);
+			log.info("%d highlight(s) retrieved", book.hightlights.length);
 
 			progressBar.increment();
 			sleep(1000);	

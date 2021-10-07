@@ -28,7 +28,8 @@ export const SELECTOR = {
 	HIGHLIGHTS: ".kp-notebook-print-override",
 	HIGHLIGHT: {
 		TEXT: ".kp-notebook-highlight span",
-		NOTE: ".kp-notebook-note span#note"
+		NOTE: ".kp-notebook-note span#note",
+		COUNT: "span[id=kp-notebook-highlights-count]"
 	}
 };
 

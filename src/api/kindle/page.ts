@@ -1,5 +1,20 @@
 import { Book, BookSelector } from "@/types";
 
+export const extractTextContent = (selector: string): string => {
+	const element = document.querySelector(selector);
+	return element?.textContent ?? "";
+};
+
+export const elementExists = (...selectors: string[]): boolean => {
+	for (const selector of selectors) {
+		const element = document.querySelector(selector);
+		if (element === null) {
+			return false;
+		}
+	}
+	return true;
+};
+
 export const extractAnnotatedBooks = (selector: BookSelector): Array<Book> => {
 	const fixAuthor = (author: string | null | undefined) => author && author.startsWith("By: ") ?
 		author.substr(4) : author;
@@ -26,17 +41,11 @@ export const extractAnnotatedBooks = (selector: BookSelector): Array<Book> => {
 	return books;
 };
 
-export const extractTextContent = (selector: string): string => {
+export const highlightsCountHasValidValue = (selector: string): boolean => {
 	const element = document.querySelector(selector);
-	return element?.textContent ?? "";
-};
-
-export const elementExists = (...selectors: string[]): boolean => {
-	for (const selector of selectors) {
-		const element = document.querySelector(selector);
-		if (element === null) {
-			return false;
-		}
+	if (element && element.textContent) {
+		const value = element.textContent.trim();
+		return value !== "--" && /^\d+$/.test(value);
 	}
-	return true;
+	return false;
 };

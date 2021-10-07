@@ -4,7 +4,7 @@ import { Logger } from "pino";
 import { SignInResult, Configuration, Highlight, Book, BookSelector } from "@/types";
 import { SELECTOR } from "@/reference";
 import { extractHighlights } from "./dom";
-import { elementExists, extractAnnotatedBooks, extractTextContent } from "./page";
+import { elementExists, extractAnnotatedBooks, extractTextContent, highlightsCountHasValidValue } from "./page";
 
 class Kindle {
 	private config: Configuration;
@@ -158,11 +158,15 @@ class Kindle {
 		this.page.on("response", responseHandler);
 	
 		await this.page.click(bookLinkSelector);
-		await this.page.waitForNetworkIdle({ timeout: 0 });
+		await this.page.waitForFunction(
+			highlightsCountHasValidValue, { polling: "raf", timeout: 120000 }, SELECTOR.HIGHLIGHT.COUNT
+		);
 	
 		// unregister response handler
 		this.page.off("response", responseHandler);
-	
+
+		// add some delay
+		await this.page.waitForTimeout(1000);
 		return highlights;
 	}
 }
