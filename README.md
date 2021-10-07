@@ -6,7 +6,7 @@ While reading a book, sometimes I come across some new words or phrases that I s
 
 The problem is, the defaut export feature can only be done in the Amazon Kindle desktop application and the number of highlights that can be exported is limited by quota set by the author. Moreover, I've already accustomed to use Notion and Remnote as my knowledge base. That's why I need an app that can export the highlights automatically, so that I can import them later into Notion or Remnote using an upcoming tool. This application is just the first step towards a bigger and more integrated app.
 
-## Screenshots
+### Screenshots
 
 ![Greeting and use Chrome question](images/greeting-and-use-chrome.png)
 
